@@ -1,0 +1,5 @@
+pytest~=8.3.3
+allure-pytest
+selene>=2.0.0rc2
+python-dotenv==1.0.1
+Appium-Python-Client~=4.3.0
